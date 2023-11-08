@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jinzhe Li"
-  avatar           : "images/ljz.png"
+  avatar           : "image/ljz.png"
   bio              : "I'm a Ph.D. student in artificial intelligence"
   location         : "Hubei, China"
   employer         :
