@@ -14,9 +14,9 @@ Starting from the autumn of 2024, I will pursue my Ph.D. through a joint program
 
 My research direction is AI4Science, specifically AI4Bio, and maybe I will also do research on problems in the field of computer vision. I hope to make some impactful work in the field of AI, and also hope my model can be SOTA.
 
-### Biography
+## Biography
 
-### Recent News
+## Recent News
 
 * coming soon
 
