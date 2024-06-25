@@ -21,8 +21,9 @@ My research direction is AI4Science, specifically AI4Bio, and maybe I will also 
 
 ## Recent News
 
-* Dec.2023. I have one paper accepted by 2024 IEEE International Conference on Acoustics, Speech and SP(ICASSP).
+* June.2024. I have one paper accepted by 2024 Chinese Conference on Pattern Recognition and Computer Vision(PRCV, CCF C)
 * May.2024. I was awarded the title of Outstanding Graduate by Central China Normal University.
+* Dec.2023. I have one paper accepted by 2024 IEEE International Conference on Acoustics, Speech and SP(ICASSP, CCF B).
 
 ## Reviews
 
