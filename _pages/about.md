@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jingzhe Li（李劲哲）and  I am a senior undergraduate majoring in Computer Science and technology at Central China Normal University. Under the guidance of [Prof. Xingpeng Jiang](http://cs.ccnu.edu.cn/info/1097/2097.htm) and [Lecture Chengji Wang](http://cs.ccnu.edu.cn/info/1097/2753.htm), I was engaged in the research of artificial intelligence (multi-modal sentiment analysis).
-
-Starting from the autumn of 2024, I will pursue my Ph.D. through a joint program at the School of Information Science and Engineering, Fudan University, in collaboration with the Shanghai Artificial Intelligence Laboratory (AiLab). The supervisors are [Prof. Tao Chen](http://www.it.fudan.edu.cn/Data/View/2989) and [Dr. Nan Qing-Dong](https://scholar.google.com/citations?user=0DX2YsQAAAAJ&hl=en). My specific laboratory department at the Shanghai Artificial Intelligence Laboratory is the OpenScienceLab. The head of the department is [Prof. Ouyang Wanli](https://wlouyang.github.io/).
-
-My research direction is AI4Science, specifically AI4Bio, and maybe I will also do research on problems in the field of computer vision. I hope to make some impactful work in the field of AI, and also hope my model can be SOTA.
+My name is Jinzhe Li, and I am now studying for a PhD in Fudan University and Shanghai Artificial Intelligence Laboratory(SH AILAB). My supervisor is [Professor Tao Chen](http://cs.ccnu.edu.cn/info/1097/2097.htm) and [Researcher Nanqing Dong](https://scholar.google.com/citations?user=0DX2YsQAAAAJ&hl=en). My laboratory in Fudan University is EDL LAB (in charge of Professor Tao Chen) in the School of Information Science and Engineering, and my department in Shanghai Artificial Intelligence Laboratory is OpenScience LAB (in charge of [Professor Ouyang Wanli](https://wlouyang.github.io/)). My current research interests are AI4Bio and Computer Vision (CV). During my undergraduate years, I was supervised by [Professor Xingpeng Jiang](http://cs.ccnu.edu.cn/info/1097/2097.htm) and [Lecturer Chengji Wang](http://cs.ccnu.edu.cn/info/1097/2753.htm), and my research direction was multi-modal sentiment Analysis (MSA).
 
 ## Educations
 
