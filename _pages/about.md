@@ -28,6 +28,8 @@ I received my bachelor's degree in Computer Science and Technology from **Centra
 
 # 📝 Publications 
 
+- $^{\dagger}$ represents the corresponding author, $^{\ddagger}$ represents the co-first author
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><img src='images/UGF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
