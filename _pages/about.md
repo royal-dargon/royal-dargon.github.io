@@ -58,7 +58,11 @@ Yuxian Wu, Chengji Wang$^{\dagger}$, **<u>Jinzhe Li</u>**, Wenjing Zhang, and Xi
 
 # 📖 Educations
 - *Sep. 2024 - Jun. 2029 (expected)*. Joint PhD at Fudan University-Shanghai AI Lab.
-- *Sep. 2020- Jun. 2024*. Bachelor student at Central China Normal University. 
+- *Sep. 2020- Jun. 2024*. Bachelor student at Central China Normal University.
+
+# 💻 Internship and Community
+- *Oct. 2023 - Now*. Research intern. [ShangHai AI Lab](https://www.shlab.org.cn/)
+- *Oct. 2020 - Dec. 2022*. Supervisor and Backend Group Member. [Muxi Studio](https://muxi-tech.xyz/) 
 
 # 🔍 Reviews
 - **Conferences**: ECML.
