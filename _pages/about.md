@@ -26,6 +26,20 @@ I received my bachelor's degree in Computer Science and Technology from **Centra
 - *2024.06*: &nbsp;🎉🎉 I have one paper accepted by 2024 Chinese Conference on Pattern Recognition and Computer Vision (PRCV, CCF C)
 - *2023.12*: &nbsp;🎉🎉 I have one paper accepted by 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, CCF B)
 
+# 🕙 Preprint
+
+- $^{\dagger}$ represents the corresponding author, $^{\ddagger}$ represents the co-first author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/agent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation](https://arxiv.org/abs/2410.09403)
+
+Haoyang Su$^{\ddagger}$, Renqi Chen$^{\ddagger}$, Shixiang Tang$^{\dagger}$, Xinzhe Zheng, **<u>Jinzhe Li</u>**, Zhenfei Yin, Wanli Ouyang, Nanqing Dong$^{\dagger}$
+</div>
+</div>
+
+
 # 📝 Publications 
 
 - $^{\dagger}$ represents the corresponding author, $^{\ddagger}$ represents the co-first author
