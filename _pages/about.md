@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student in a joint training program between Fudan University and Shanghai AI Lab. My supervisors are [Professor Tao Chen](http://www.it.fudan.edu.cn/Data/View/2989) , [Professor Ouyang Wanli](https://wlouyang.github.io/) and [Researcher Nanqing Dong](https://scholar.google.com/citations?user=0DX2YsQAAAAJ&hl=en). My current research interests are AI4Science and Computer Vision. 
+I am currently a PhD student in a joint training program between Fudan University and Shanghai AI Lab, under the supervision of [Professor Tao Chen](http://www.it.fudan.edu.cn/Data/View/2989) , [Professor Ouyang Wanli](https://wlouyang.github.io/) and [Researcher Nanqing Dong](https://scholar.google.com/citations?user=0DX2YsQAAAAJ&hl=en). My current research interests are AI4Science and Generative Model. 
 
 I received my bachelor's degree in Computer Science and Technology from **Central China Normal University** (Sep. 2020 - Jun. 2024). During my undergraduate years, I was supervised by [Professor Xingpeng Jiang](http://cs.ccnu.edu.cn/info/1097/2097.htm) and [Lecturer Chengji Wang](http://cs.ccnu.edu.cn/info/1097/2753.htm), and my research direction was multi-modal sentiment Analysis (MSA).
 
