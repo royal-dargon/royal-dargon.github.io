@@ -30,6 +30,15 @@ I received my bachelor's degree in Computer Science and Technology from **Centra
 
 - $^{\dagger}$ represents the corresponding author, $^{\ddagger}$ represents the co-first author
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/DeepGPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep generative model for protein subcellular localization prediction ](https://www.biorxiv.org/content/10.1101/2024.10.29.620765v1.full.pdf)
+
+Guo-Hua Yuan$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Zejun Yang$^{\ddagger}$, Yao-Qi Chen$^{\ddagger}$, Zhonghang Yuan, Tao Chen, Wanli Ouyang, Nanqing Dong$^{\dagger}$, Li Yang$^{\dagger}$
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/agent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,7 +70,7 @@ Yuxian Wu, Chengji Wang$^{\dagger}$, **<u>Jinzhe Li</u>**, Wenjing Zhang, and Xi
 
 [Modality-Dependent Sentiments Exploring for Multi-Modal Sentiment Classification](https://ieeexplore.ieee.org/abstract/document/10445820)
 
-**<u>Jinzhe Li</u>**; Chengji Wang$^{\dagger}$; Zhiming Luo; Yuxian Wu; Xingpeng Jiang$^{\dagger}$
+**<u>Jinzhe Li</u>**, Chengji Wang$^{\dagger}$, Zhiming Luo, Yuxian Wu, Xingpeng Jiang$^{\dagger}$
 
 - We propose a Modality-Dependent Sentiment Exploring framework(MDSE).
 </div>
