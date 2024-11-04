@@ -33,7 +33,7 @@ I received my bachelor's degree in Computer Science and Technology from **Centra
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/DeepGPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep generative model for protein subcellular localization prediction ](https://www.biorxiv.org/content/10.1101/2024.10.29.620765v1.full.pdf)
+[Deep generative model for protein subcellular localization prediction ](https://www.biorxiv.org/content/10.1101/2024.10.29.620765v2)
 
 Guo-Hua Yuan$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Zejun Yang$^{\ddagger}$, Yao-Qi Chen$^{\ddagger}$, Zhonghang Yuan, Tao Chen, Wanli Ouyang, Nanqing Dong$^{\dagger}$, Li Yang$^{\dagger}$
 </div>
