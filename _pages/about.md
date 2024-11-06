@@ -55,8 +55,7 @@ Haoyang Su$^{\ddagger}$, Renqi Chen$^{\ddagger}$, Shixiang Tang$^{\dagger}$, Xin
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><img src='images/UGF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Uncertainty-aware Gradient Modulation and Feature Masking for Multimodal Sentiment Analysis](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Uncertainty-aware Gradient Modulation and Feature Masking for Multimodal Sentiment Analysis](https://link.springer.com/chapter/10.1007/978-981-97-8795-1_22)
 
 Yuxian Wu, Chengji Wang$^{\dagger}$, **<u>Jinzhe Li</u>**, Wenjing Zhang, and Xingpeng Jiang$^{\dagger}$
 
