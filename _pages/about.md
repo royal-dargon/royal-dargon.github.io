@@ -87,5 +87,5 @@ Yuxian Wu, Chengji Wang$^{\dagger}$, **<u>Jinzhe Li</u>**, Wenjing Zhang, and Xi
 - *Oct. 2020 - Dec. 2022*. Supervisor and Backend Group Member. [Muxi Studio](https://muxi-tech.xyz/) 
 
 # 🔍 Reviews
-- **Conferences**: ECML.
+- **Conferences**: ECML, ISBI
 - **Journals**: Coming Soon.
