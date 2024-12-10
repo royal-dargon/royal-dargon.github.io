@@ -23,6 +23,7 @@ I received my bachelor's degree in Computer Science and Technology from **Centra
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 I have one paper accepted by 2025 AAAI Conference on Artificial Intelligence (AAAI, CCF A)
 - *2024.06*: &nbsp;🎉🎉 I have one paper accepted by 2024 Chinese Conference on Pattern Recognition and Computer Vision (PRCV, CCF C)
 - *2023.12*: &nbsp;🎉🎉 I have one paper accepted by 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, CCF B)
 
