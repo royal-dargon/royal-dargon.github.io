@@ -90,3 +90,35 @@ Yuxian Wu, Chengji Wang$^{\dagger}$, **<u>Jinzhe Li</u>**, Wenjing Zhang, and Xi
 # 🔍 Reviews
 - **Conferences**: ECML, ISBI
 - **Journals**: Coming Soon.
+
+<div align="center">
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+This homepage is visited <font color="purple" size="5"><span id="busuanzi_value_site_pv"></span></font> times
+</div>
+
+<div>
+
+<script>
+async function fetchLastCommitTime() {
+    const owner = 'royal-dargon';
+    const repo = 'royal-dargon.github.io';
+    const url = `https://api.github.com/repos/${owner}/${repo}/commits`;
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`Failed to fetch data from GitHub: ${response.statusText}`);
+        }
+        const data = await response.json();
+        const lastCommitDate = new Date(data[0].commit.committer.date);
+        document.getElementById('lastCommitTime').textContent = `Last Updated in ${lastCommitDate.toLocaleDateString()}`;
+    } catch (error) {
+        console.error('Error fetching commit time:', error);
+        // document.getElementById('lastCommitTime').textContent = 'Failed to fetch commit time.';
+    }
+}
+fetchLastCommitTime();
+</script>
+</div>
+
+
+
