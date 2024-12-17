@@ -91,7 +91,7 @@ Yuxian Wu, Chengji Wang$^{\dagger}$, **<u>Jinzhe Li</u>**, Wenjing Zhang, and Xi
 - **Conferences**: ECML, ISBI
 - **Journals**: Coming Soon.
 
-<!-- <div align="center">
+<div align="center">
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 This homepage is visited <font color="purple" size="5"><span id="busuanzi_value_site_pv"></span></font> times
 </div>
@@ -118,8 +118,8 @@ async function fetchLastCommitTime() {
 }
 fetchLastCommitTime();
 </script>
-</div> -->
+</div>
 
-<a href="https://info.flagcounter.com/wSJA"><img src="https://s01.flagcounter.com/count2/wSJA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+# <a href="https://info.flagcounter.com/wSJA"><img src="https://s01.flagcounter.com/count2/wSJA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
