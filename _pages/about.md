@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student in a joint training program between Fudan University and Shanghai AI Lab, under the supervision of [Professor Tao Chen](http://www.it.fudan.edu.cn/Data/View/2989) , [Professor Ouyang Wanli](https://wlouyang.github.io/) and [Researcher Nanqing Dong](https://scholar.google.com/citations?user=0DX2YsQAAAAJ&hl=en). My current research interests are AI4Science and Generative Model. 
+I am currently a PhD student in a joint training program between Fudan University and Shanghai AI Lab, under the supervision of [Professor Tao Chen](http://www.it.fudan.edu.cn/Data/View/2989) , [Professor Ouyang Wanli](https://wlouyang.github.io/) and [Researcher Nanqing Dong](https://scholar.google.com/citations?user=0DX2YsQAAAAJ&hl=en). My current research interests are AI4Science and Generative Model. And I work really closely with [HuanJun Kong](https://github.com/tpoisonooo). 
 
 I received my bachelor's degree in Computer Science and Technology from **Central China Normal University** (Sep. 2020 - Jun. 2024). During my undergraduate years, I was supervised by [Professor Xingpeng Jiang](http://cs.ccnu.edu.cn/info/1097/2097.htm) and [Lecturer Chengji Wang](http://cs.ccnu.edu.cn/info/1097/2753.htm), and my research direction was multi-modal sentiment Analysis (MSA).
 
@@ -91,7 +91,7 @@ Yuxian Wu, Chengji Wang$^{\dagger}$, **<u>Jinzhe Li</u>**, Wenjing Zhang, and Xi
 - **Conferences**: ECML, ISBI
 - **Journals**: Coming Soon.
 
-<div align="center">
+<!-- <div align="center">
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 This homepage is visited <font color="purple" size="5"><span id="busuanzi_value_site_pv"></span></font> times
 </div>
@@ -118,7 +118,8 @@ async function fetchLastCommitTime() {
 }
 fetchLastCommitTime();
 </script>
-</div>
+</div> -->
 
+<a href="https://info.flagcounter.com/wSJA"><img src="https://s01.flagcounter.com/count2/wSJA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
