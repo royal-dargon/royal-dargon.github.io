@@ -54,6 +54,16 @@ Haoyang Su$^{\ddagger}$, Renqi Chen$^{\ddagger}$, Shixiang Tang$^{\dagger}$, Xin
 
 - $^{\dagger}$ represents the corresponding author, $^{\ddagger}$ represents the co-first author
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Towards Efficient and Intelligent Laser Weeding: Method and Dataset for Weed Stem Detection](https://link.springer.com/chapter/10.1007/978-981-97-8795-1_22)
+
+Dingning Liu$^{\ddagger}$, Jinzhe Li$^{\ddagger}$, Haoyang Su$^{\ddagger}$, Bei Cui$^{\dagger}$, Zhihui Wang, Qingbo Yuan, Wanli Ouyang, Nanqing Dong$^{\dagger}$
+
+- Coming Soon.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><img src='images/UGF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Uncertainty-aware Gradient Modulation and Feature Masking for Multimodal Sentiment Analysis](https://link.springer.com/chapter/10.1007/978-981-97-8795-1_22)
