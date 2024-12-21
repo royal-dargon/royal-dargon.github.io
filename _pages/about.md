@@ -58,7 +58,7 @@ Haoyang Su$^{\ddagger}$, Renqi Chen$^{\ddagger}$, Shixiang Tang$^{\dagger}$, Xin
 <div class='paper-box-text' markdown="1">
 [Towards Efficient and Intelligent Laser Weeding: Method and Dataset for Weed Stem Detection](https://link.springer.com/chapter/10.1007/978-981-97-8795-1_22)
 
-Dingning Liu$^{\ddagger}$, Jinzhe Li$^{\ddagger}$, Haoyang Su$^{\ddagger}$, Bei Cui$^{\dagger}$, Zhihui Wang, Qingbo Yuan, Wanli Ouyang, Nanqing Dong$^{\dagger}$
+Dingning Liu$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Haoyang Su$^{\ddagger}$, Bei Cui$^{\dagger}$, Zhihui Wang, Qingbo Yuan, Wanli Ouyang, Nanqing Dong$^{\dagger}$
 
 - Coming Soon.
 </div>
