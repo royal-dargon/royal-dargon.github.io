@@ -45,7 +45,7 @@ I received my bachelor's degree in Computer Science and Technology from **Centra
 
 - [Alignrag: An adaptable framework for resolving misalignments in retrieval-aware reasoning of rag](https://arxiv.org/pdf/2504.14858) Jiaqi Wei$^{\ddagger}$, Hao Zhou$^{\ddagger}$, Xiang Zhang, Di Zhang, Zijie Qiu, Wei Wei, **<u>Jinzhe Li</u>**, Wanli Ouyang, Siqi Sun$^{\dagger}$ NeurIPS 2025 [CCF A]
 
-- [Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System](https://aclanthology.org/2025.acl-long.1368/) Haoyang Su$^{\ddagger}$, Renqi Chen$^{\ddagger}$, Shixiang Tang$^{\dagger}$, Zhenfei Yin, Xinzhe Zheng, **<u>Jinzhe Li</u>**, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong$^{\dagger}$ ACL 2025 [CCF A]
+- [Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System](https://aclanthology.org/2025.acl-long.1368/) Haoyang Su$^{\ddagger}$, Renqi Chen$^{\ddagger}$, Shixiang Tang$^{\dagger}$, Zhenfei Yin, Xinzhe Zheng, **<u>Jinzhe Li</u>**, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong$^{\dagger}$ ACL 2025 Main [CCF A]
 
 - [Deep generative model for protein subcellular localization prediction](https://academic.oup.com/bib/article/26/2/bbaf152/8110879) Guo-Hua Yuan$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Zejun Yang$^{\ddagger}$, Yao-Qi Chen$^{\ddagger}$, Zhonghang Yuan, Tao Chen, Wanli Ouyang, Nanqing Dong$^{\dagger}$, Li Yang$^{\dagger}$ Briefings in Bioinformatics [SCI Q1, CCF B]
 
