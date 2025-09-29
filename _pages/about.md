@@ -24,68 +24,29 @@ I received my bachelor's degree in Computer Science and Technology from **Centra
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 I have one paper accepted by 2025 AAAI Conference on Artificial Intelligence (AAAI, CCF A)
-- *2024.06*: &nbsp;🎉🎉 I have one paper accepted by 2024 Chinese Conference on Pattern Recognition and Computer Vision (PRCV, CCF C)
-- *2023.12*: &nbsp;🎉🎉 I have one paper accepted by 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, CCF B)
+- *2025.09*: &nbsp;🎉🎉 I have two paper accepted by NeurIPS 2025 (CCF A)
+- *2025.05*: &nbsp;🎉🎉 I have one paper accepted by ACL 2025 Main (CCF A)
+- *2024.12*: &nbsp;🎉🎉 I have one paper accepted by AAAI 2025 (CCF A)
+- *2024.06*: &nbsp;🎉🎉 I have one paper accepted by PRCV 2024 (CCF C)
+- *2023.12*: &nbsp;🎉🎉 I have one paper accepted by ICASSP 2024 (CCF B)
 
 # 🕙 Preprint
 
 - $^{\dagger}$ represents the corresponding author, $^{\ddagger}$ represents the co-first author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/DeepGPS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [Deep generative model for protein subcellular localization prediction ](https://www.biorxiv.org/content/10.1101/2024.10.29.620765v2) Guo-Hua Yuan$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Zejun Yang$^{\ddagger}$, Yao-Qi Chen$^{\ddagger}$, Zhonghang Yuan, Tao Chen, Wanli Ouyang, Nanqing Dong$^{\dagger}$, Li Yang$^{\dagger}$
 
-[Deep generative model for protein subcellular localization prediction ](https://www.biorxiv.org/content/10.1101/2024.10.29.620765v2)
-
-Guo-Hua Yuan$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Zejun Yang$^{\ddagger}$, Yao-Qi Chen$^{\ddagger}$, Zhonghang Yuan, Tao Chen, Wanli Ouyang, Nanqing Dong$^{\dagger}$, Li Yang$^{\dagger}$
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/agent.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation](https://arxiv.org/abs/2410.09403)
-
-Haoyang Su$^{\ddagger}$, Renqi Chen$^{\ddagger}$, Shixiang Tang$^{\dagger}$, Xinzhe Zheng, **<u>Jinzhe Li</u>**, Zhenfei Yin, Wanli Ouyang, Nanqing Dong$^{\dagger}$
-</div>
-</div>
-
+- [Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation](https://arxiv.org/abs/2410.09403) Haoyang Su$^{\ddagger}$, Renqi Chen$^{\ddagger}$, Shixiang Tang$^{\dagger}$, Xinzhe Zheng, **<u>Jinzhe Li</u>**, Zhenfei Yin, Wanli Ouyang, Nanqing Dong$^{\dagger}$
 
 # 📝 Publications 
 
 - $^{\dagger}$ represents the corresponding author, $^{\ddagger}$ represents the co-first author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Towards Efficient and Intelligent Laser Weeding: Method and Dataset for Weed Stem Detection](https://link.springer.com/chapter/10.1007/978-981-97-8795-1_22)
+- [Towards Efficient and Intelligent Laser Weeding: Method and Dataset for Weed Stem Detection](https://link.springer.com/chapter/10.1007/978-981-97-8795-1_22) Dingning Liu$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Haoyang Su$^{\ddagger}$, Bei Cui$^{\dagger}$, Zhihui Wang, Qingbo Yuan, Wanli Ouyang, Nanqing Dong$^{\dagger}$
 
-Dingning Liu$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Haoyang Su$^{\ddagger}$, Bei Cui$^{\dagger}$, Zhihui Wang, Qingbo Yuan, Wanli Ouyang, Nanqing Dong$^{\dagger}$
+- [Uncertainty-aware Gradient Modulation and Feature Masking for Multimodal Sentiment Analysis](https://link.springer.com/chapter/10.1007/978-981-97-8795-1_22) Yuxian Wu, Chengji Wang$^{\dagger}$, **<u>Jinzhe Li</u>**, Wenjing Zhang, and Xingpeng Jiang$^{\dagger}$
 
-- Coming Soon.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><img src='images/UGF.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Uncertainty-aware Gradient Modulation and Feature Masking for Multimodal Sentiment Analysis](https://link.springer.com/chapter/10.1007/978-981-97-8795-1_22)
-
-Yuxian Wu, Chengji Wang$^{\dagger}$, **<u>Jinzhe Li</u>**, Wenjing Zhang, and Xingpeng Jiang$^{\dagger}$
-
-- We propose a novel modality uncertainty estimation method for regression problem, it utilizes the normalized absolute distance between predictions and labels to estimates the modality uncertainties.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/MDSE.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Modality-Dependent Sentiments Exploring for Multi-Modal Sentiment Classification](https://ieeexplore.ieee.org/abstract/document/10445820)
-
-**<u>Jinzhe Li</u>**, Chengji Wang$^{\dagger}$, Zhiming Luo, Yuxian Wu, Xingpeng Jiang$^{\dagger}$
-
-- We propose a Modality-Dependent Sentiment Exploring framework(MDSE).
-</div>
-</div>
+- [Modality-Dependent Sentiments Exploring for Multi-Modal Sentiment Classification](https://ieeexplore.ieee.org/abstract/document/10445820) **<u>Jinzhe Li</u>**, Chengji Wang$^{\dagger}$, Zhiming Luo, Yuxian Wu, Xingpeng Jiang$^{\dagger}$
 
 # 🏆 Awards and Scholarships
 - *Jun. 2024*. Award for **Outstanding Graduate Student**.
@@ -99,7 +60,7 @@ Yuxian Wu, Chengji Wang$^{\dagger}$, **<u>Jinzhe Li</u>**, Wenjing Zhang, and Xi
 - *Oct. 2020 - Dec. 2022*. Supervisor and Backend Group Member. [Muxi Studio](https://muxi-tech.xyz/) 
 
 # 🔍 Reviews
-- **Conferences**: ECML, ISBI
+- **Conferences**: AAAI, ICLR, ECML, ISBI
 - **Journals**: Coming Soon.
 
 <div align="center">
