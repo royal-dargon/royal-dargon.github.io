@@ -51,7 +51,7 @@ I received my bachelor's degree in Computer Science and Technology from **Centra
 
 - [Deep generative model for protein subcellular localization prediction](https://academic.oup.com/bib/article/26/2/bbaf152/8110879) Guo-Hua Yuan$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Zejun Yang$^{\ddagger}$, Yao-Qi Chen$^{\ddagger}$, Zhonghang Yuan, Tao Chen, Wanli Ouyang, Nanqing Dong$^{\dagger}$, Li Yang$^{\dagger}$ Briefings in Bioinformatics [SCI Q1, CCF B]
 
-- [Towards Efficient and Intelligent Laser Weeding: Method and Dataset for Weed Stem Detection](https://ojs.aaai.org/index.php/AAAI/article/view/35040) Dingning Liu$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Haoyang Su$^{\ddagger}$, Bei Cui$^{\dagger}$, Zhihui Wang, Qingbo Yuan, Wanli Ouyang, Nanqing Dong$^{\dagger}$
+- [Towards Efficient and Intelligent Laser Weeding: Method and Dataset for Weed Stem Detection](https://ojs.aaai.org/index.php/AAAI/article/view/35040) Dingning Liu$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Haoyang Su$^{\ddagger}$, Bei Cui$^{\dagger}$, Zhihui Wang, Qingbo Yuan, Wanli Ouyang, Nanqing Dong$^{\dagger}$ AAAI 2025 [CCF A]
 
 - [Uncertainty-aware Gradient Modulation and Feature Masking for Multimodal Sentiment Analysis](https://link.springer.com/chapter/10.1007/978-981-97-8795-1_22) Yuxian Wu, Chengji Wang$^{\dagger}$, **<u>Jinzhe Li</u>**, Wenjing Zhang, and Xingpeng Jiang$^{\dagger}$ PRCV 2024 [CCF C]
 
