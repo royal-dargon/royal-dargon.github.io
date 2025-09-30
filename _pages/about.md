@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am currently a PhD student in a joint training program between **Fudan University** and **Shanghai AI Lab**, under the supervision of [Professor Tao Chen](http://www.it.fudan.edu.cn/Data/View/2989) at Fudan University, and [Researcher Nanqing Dong](https://scholar.google.com/citations?user=0DX2YsQAAAAJ&hl=en) together with [Professor Wanli Ouyang](https://wlouyang.github.io/) at Shanghai AI Lab. My current research interests are AI4Science and Multimodal. 
+Hi! I am currently a PhD student in a joint training program between **Fudan University** and **Shanghai AI Lab**, under the supervision of [Professor Tao Chen](http://www.it.fudan.edu.cn/Data/View/2989), [Associate Professor Nanqing Dong](https://scholar.google.com/citations?user=0DX2YsQAAAAJ&hl=en), and [Professor Wanli Ouyang](https://wlouyang.github.io/). My current research interests are AI4Science and Multimodal. 
 I have published papers with total google scholar citations <a href='https://scholar.google.com/citations?user=gShUHBAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 I received my bachelor's degree in Computer Science and Technology from **Central China Normal University** (Sep. 2020 - Jun. 2024). During my undergraduate years, I was supervised by [Professor Xingpeng Jiang](http://cs.ccnu.edu.cn/info/1097/2097.htm) and [Lecturer Chengji Wang](http://cs.ccnu.edu.cn/info/1097/2753.htm), and my research direction was multi-modal sentiment Analysis (MSA).
