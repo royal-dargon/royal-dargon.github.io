@@ -24,7 +24,7 @@ I received my bachelor's degree in Computer Science and Technology from **Centra
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 I have two paper accepted by NeurIPS 2025 (CCF A)
+- *2025.09*: &nbsp;🎉🎉 I have two papers accepted by NeurIPS 2025 (CCF A)
 - *2025.05*: &nbsp;🎉🎉 I have one paper accepted by ACL 2025 Main (CCF A)
 - *2025.03*: &nbsp;🎉🎉 I have one paper accepted by Briefings in Bioinformatics (SCI Q1, CCF B)
 - *2024.12*: &nbsp;🎉🎉 I have one paper accepted by AAAI 2025 (CCF A)
