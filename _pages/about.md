@@ -35,7 +35,7 @@ I received my bachelor's degree in Computer Science and Technology from **Centra
 
 - $^{\dagger}$ represents the corresponding author, $^{\ddagger}$ represents the co-first author
 
-- [Rethinking Multi-Omics LLMs from the Perspective of Omics-Encoding](https://iclr.cc/) **<u>Jinzhe Li$^{\ddagger}$</u>**, Zihong Chen$^{\ddagger}$, Jie Ying$^{\ddagger}$, Han Hu$^{\ddagger}$, Zhefan Wang$^{\ddagger}$, haonan he, Wenwei Han, Jiangbin Zheng, Huanjun Kong, Wanli Ouyang, Stan Z. Li, Yuchen Ren$^{\dagger}$, Tao Chen$^{\dagger}$, Nanqing Dong$^{\dagger}$
+- [Rethinking Multi-Omics LLMs from the Perspective of Omics-Encoding](https://openreview.net/pdf/0c29c5b48dce132666ff2e32a515a58458e66f98.pdf) **<u>Jinzhe Li$^{\ddagger}$</u>**, Zihong Chen$^{\ddagger}$, Jie Ying$^{\ddagger}$, Han Hu$^{\ddagger}$, Zhefan Wang$^{\ddagger}$, haonan he, Wenwei Han, Jiangbin Zheng, Huanjun Kong, Wanli Ouyang, Stan Z. Li, Yuchen Ren$^{\dagger}$, Tao Chen$^{\dagger}$, Nanqing Dong$^{\dagger}$
 
 - [GraphGen: Enhancing Supervised Fine-Tuning for LLMs with Knowledge-Driven Synthetic Data Generation](https://arxiv.org/pdf/2505.20416?) Zihong Chen, Wanli Jiang, **<u>Jinzhe Li</u>**, Zhonghang Yuan, Huanjun Kong, Wanli Ouyang, Nanqing Dong$^{\dagger}$
 
