@@ -17,19 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am currently a PhD student in a joint training program between **Fudan University** and **Shanghai AI Lab**, under the supervision of [Professor Tao Chen](http://www.it.fudan.edu.cn/Data/View/2989), [Associate Professor Nanqing Dong](https://scholar.google.com/citations?user=0DX2YsQAAAAJ&hl=en), and [Professor Wanli Ouyang](https://wlouyang.github.io/). My current research interests are AI4Science and Multimodal. 
-I have published papers with total google scholar citations <a href='https://scholar.google.com/citations?user=gShUHBAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+Hi! I am currently a PhD student in a joint training program between **Fudan University** and **Shanghai AI Lab**, under the supervision of [Professor Tao Chen](http://www.it.fudan.edu.cn/Data/View/2989), [Associate Professor Nanqing Dong](https://scholar.google.com/citations?user=0DX2YsQAAAAJ&hl=en), and [Professor Wanli Ouyang](https://wlouyang.github.io/). My current research interests are AI4Science, Multi-Modal, and Large Language Model. 
 
 I received my bachelor's degree in Computer Science and Technology from **Central China Normal University** (Sep. 2020 - Jun. 2024). During my undergraduate years, I was supervised by [Professor Xingpeng Jiang](http://cs.ccnu.edu.cn/info/1097/2097.htm) and [Lecturer Chengji Wang](http://cs.ccnu.edu.cn/info/1097/2753.htm), and my research direction was multi-modal sentiment Analysis (MSA).
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 I have two papers accepted by NeurIPS 2025 (CCF A)
-- *2025.05*: &nbsp;🎉🎉 I have one paper accepted by ACL 2025 Main (CCF A)
-- *2025.03*: &nbsp;🎉🎉 I have one paper accepted by Briefings in Bioinformatics (SCI Q1, CCF B)
-- *2024.12*: &nbsp;🎉🎉 I have one paper accepted by AAAI 2025 (CCF A)
-- *2024.06*: &nbsp;🎉🎉 I have one paper accepted by PRCV 2024 (CCF C)
-- *2023.12*: &nbsp;🎉🎉 I have one paper accepted by ICASSP 2024 (CCF B)
+- *2025.09*: &nbsp;🎉🎉 I have two papers accepted by NeurIPS 2025
+- *2025.05*: &nbsp;🎉🎉 I have one paper accepted by ACL 2025 Main
+- *2025.03*: &nbsp;🎉🎉 I have one paper accepted by Briefings in Bioinformatics
+- *2024.12*: &nbsp;🎉🎉 I have one paper accepted by AAAI 2025
+- *2024.06*: &nbsp;🎉🎉 I have one paper accepted by PRCV 2024
+- *2023.12*: &nbsp;🎉🎉 I have one paper accepted by ICASSP 2024
 
 # 🕙 Preprint
 
@@ -43,19 +42,19 @@ I received my bachelor's degree in Computer Science and Technology from **Centra
 
 - $^{\dagger}$ represents the corresponding author, $^{\ddagger}$ represents the co-first author
 
-- [PRING: Rethinking Protein-Protein Interaction Prediction from Pairs to Graphs](https://arxiv.org/pdf/2507.05101?) Xinzhe Zheng$^{\ddagger}$, Hao Du$^{\ddagger}$, Fanding Xu$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Zhiyuan Liu$^{\dagger}$, Wenkang Wang, Tao Chen, Wanli Ouyang, Stan Z Li, Yan Lu$^{\dagger}$, Nanqing Dong$^{\dagger}$, Yang Zhang$^{\dagger}$ NeurIPS 2025 [CCF A]
+- [PRING: Rethinking Protein-Protein Interaction Prediction from Pairs to Graphs](https://arxiv.org/pdf/2507.05101?) Xinzhe Zheng$^{\ddagger}$, Hao Du$^{\ddagger}$, Fanding Xu$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Zhiyuan Liu$^{\dagger}$, Wenkang Wang, Tao Chen, Wanli Ouyang, Stan Z Li, Yan Lu$^{\dagger}$, Nanqing Dong$^{\dagger}$, Yang Zhang$^{\dagger}$ NeurIPS 2025
 
-- [Alignrag: An adaptable framework for resolving misalignments in retrieval-aware reasoning of rag](https://arxiv.org/pdf/2504.14858) Jiaqi Wei$^{\ddagger}$, Hao Zhou$^{\ddagger}$, Xiang Zhang, Di Zhang, Zijie Qiu, Wei Wei, **<u>Jinzhe Li</u>**, Wanli Ouyang, Siqi Sun$^{\dagger}$ NeurIPS 2025 [CCF A]
+- [Alignrag: An adaptable framework for resolving misalignments in retrieval-aware reasoning of rag](https://arxiv.org/pdf/2504.14858) Jiaqi Wei$^{\ddagger}$, Hao Zhou$^{\ddagger}$, Xiang Zhang, Di Zhang, Zijie Qiu, Wei Wei, **<u>Jinzhe Li</u>**, Wanli Ouyang, Siqi Sun$^{\dagger}$ NeurIPS 2025
 
-- [Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System](https://aclanthology.org/2025.acl-long.1368/) Haoyang Su$^{\ddagger}$, Renqi Chen$^{\ddagger}$, Shixiang Tang$^{\dagger}$, Zhenfei Yin, Xinzhe Zheng, **<u>Jinzhe Li</u>**, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong$^{\dagger}$ ACL 2025 Main [CCF A]
+- [Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System](https://aclanthology.org/2025.acl-long.1368/) Haoyang Su$^{\ddagger}$, Renqi Chen$^{\ddagger}$, Shixiang Tang$^{\dagger}$, Zhenfei Yin, Xinzhe Zheng, **<u>Jinzhe Li</u>**, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong$^{\dagger}$ ACL 2025 Main
 
-- [Deep generative model for protein subcellular localization prediction](https://academic.oup.com/bib/article/26/2/bbaf152/8110879) Guo-Hua Yuan$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Zejun Yang$^{\ddagger}$, Yao-Qi Chen$^{\ddagger}$, Zhonghang Yuan, Tao Chen, Wanli Ouyang, Nanqing Dong$^{\dagger}$, Li Yang$^{\dagger}$ Briefings in Bioinformatics [SCI Q1, CCF B]
+- [Deep generative model for protein subcellular localization prediction](https://academic.oup.com/bib/article/26/2/bbaf152/8110879) Guo-Hua Yuan$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Zejun Yang$^{\ddagger}$, Yao-Qi Chen$^{\ddagger}$, Zhonghang Yuan, Tao Chen, Wanli Ouyang, Nanqing Dong$^{\dagger}$, Li Yang$^{\dagger}$ Briefings in Bioinformatics
 
-- [Towards Efficient and Intelligent Laser Weeding: Method and Dataset for Weed Stem Detection](https://ojs.aaai.org/index.php/AAAI/article/view/35040) Dingning Liu$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Haoyang Su$^{\ddagger}$, Bei Cui$^{\dagger}$, Zhihui Wang, Qingbo Yuan, Wanli Ouyang, Nanqing Dong$^{\dagger}$ AAAI 2025 [CCF A]
+- [Towards Efficient and Intelligent Laser Weeding: Method and Dataset for Weed Stem Detection](https://ojs.aaai.org/index.php/AAAI/article/view/35040) Dingning Liu$^{\ddagger}$, **<u>Jinzhe Li$^{\ddagger}$</u>**, Haoyang Su$^{\ddagger}$, Bei Cui$^{\dagger}$, Zhihui Wang, Qingbo Yuan, Wanli Ouyang, Nanqing Dong$^{\dagger}$ AAAI 2025
 
-- [Uncertainty-aware Gradient Modulation and Feature Masking for Multimodal Sentiment Analysis](https://link.springer.com/chapter/10.1007/978-981-97-8795-1_22) Yuxian Wu, Chengji Wang$^{\dagger}$, **<u>Jinzhe Li</u>**, Wenjing Zhang, and Xingpeng Jiang$^{\dagger}$ PRCV 2024 [CCF C]
+- [Uncertainty-aware Gradient Modulation and Feature Masking for Multimodal Sentiment Analysis](https://link.springer.com/chapter/10.1007/978-981-97-8795-1_22) Yuxian Wu, Chengji Wang$^{\dagger}$, **<u>Jinzhe Li</u>**, Wenjing Zhang, and Xingpeng Jiang$^{\dagger}$ PRCV 2024
 
-- [Modality-Dependent Sentiments Exploring for Multi-Modal Sentiment Classification](https://ieeexplore.ieee.org/abstract/document/10445820) **<u>Jinzhe Li</u>**, Chengji Wang$^{\dagger}$, Zhiming Luo, Yuxian Wu, Xingpeng Jiang$^{\dagger}$ ICASSP 2024 [CCF B]
+- [Modality-Dependent Sentiments Exploring for Multi-Modal Sentiment Classification](https://ieeexplore.ieee.org/abstract/document/10445820) **<u>Jinzhe Li</u>**, Chengji Wang$^{\dagger}$, Zhiming Luo, Yuxian Wu, Xingpeng Jiang$^{\dagger}$ ICASSP 2024
 
 # 🏆 Awards and Scholarships
 - *Jun. 2024*. Award for **Outstanding Graduate Student**.
